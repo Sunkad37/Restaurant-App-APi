@@ -1,9 +1,6 @@
-using RestaurantApp.Application.Dishes.Dto;
-using RestaurantApp.Domain.Entities;
-
 namespace RestaurantApp.Application.Restaurants.Dto;
 
-public class RestaurantDto
+public class CreateRestaurantDto
 {
     public int Id { get; set; }
     public string? Name { get; set; } = null!;
@@ -15,6 +12,4 @@ public class RestaurantDto
     public string? City { get; set; } = null!;
     public string? Street { get; set; } = null!;
     public string? PostalCode { get; set; } = null!;
-    
-    public List<DishDto> Dishes { get; set; } = [];
 }

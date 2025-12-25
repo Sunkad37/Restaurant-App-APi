@@ -21,4 +21,11 @@ public class RestaurantRepository(RestaurantDbContext dbContext) : IRestaurantRe
             .Include(r => r.Dishes)
             .FirstOrDefaultAsync(r => r.Id == id);
     }
+
+    public async Task<int> CreateRestaurant(Restaurant restaurant)
+    {
+        await  dbContext.Restaurants.AddAsync(restaurant);
+        await dbContext.SaveChangesAsync();
+        return restaurant.Id;
+    }
 }

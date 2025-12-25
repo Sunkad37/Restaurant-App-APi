@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "hNoDVz62Ae0=",
+  "dgSpecHash": "+h0PFm8zNHM=",
   "success": true,
   "projectFilePath": "/Users/sharansunkad/RiderProjects/RestaurantApp/RestaurantApp.Api/RestaurantApp.Api.csproj",
   "expectedPackageFiles": [
+    "/Users/sharansunkad/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
+    "/Users/sharansunkad/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.1/automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "/Users/sharansunkad/.nuget/packages/azure.core/1.47.1/azure.core.1.47.1.nupkg.sha512",
     "/Users/sharansunkad/.nuget/packages/azure.identity/1.14.2/azure.identity.1.14.2.nupkg.sha512",
     "/Users/sharansunkad/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",

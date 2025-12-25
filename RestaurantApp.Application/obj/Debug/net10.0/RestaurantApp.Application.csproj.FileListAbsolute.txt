@@ -1,0 +1,16 @@
+/Users/sharansunkad/RiderProjects/RestaurantApp/RestaurantApp.Application/bin/Debug/net10.0/RestaurantApp.Application.deps.json
+/Users/sharansunkad/RiderProjects/RestaurantApp/RestaurantApp.Application/bin/Debug/net10.0/RestaurantApp.Application.dll
+/Users/sharansunkad/RiderProjects/RestaurantApp/RestaurantApp.Application/bin/Debug/net10.0/RestaurantApp.Application.pdb
+/Users/sharansunkad/RiderProjects/RestaurantApp/RestaurantApp.Application/bin/Debug/net10.0/RestaurantApp.Domain.dll
+/Users/sharansunkad/RiderProjects/RestaurantApp/RestaurantApp.Application/bin/Debug/net10.0/RestaurantApp.Domain.pdb
+/Users/sharansunkad/RiderProjects/RestaurantApp/RestaurantApp.Application/obj/Debug/net10.0/RestaurantApp.Application.csproj.AssemblyReference.cache
+/Users/sharansunkad/RiderProjects/RestaurantApp/RestaurantApp.Application/obj/Debug/net10.0/RestaurantApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sharansunkad/RiderProjects/RestaurantApp/RestaurantApp.Application/obj/Debug/net10.0/RestaurantApp.Application.AssemblyInfoInputs.cache
+/Users/sharansunkad/RiderProjects/RestaurantApp/RestaurantApp.Application/obj/Debug/net10.0/RestaurantApp.Application.AssemblyInfo.cs
+/Users/sharansunkad/RiderProjects/RestaurantApp/RestaurantApp.Application/obj/Debug/net10.0/RestaurantApp.Application.csproj.CoreCompileInputs.cache
+/Users/sharansunkad/RiderProjects/RestaurantApp/RestaurantApp.Application/obj/Debug/net10.0/RestaurantApp.Application.sourcelink.json
+/Users/sharansunkad/RiderProjects/RestaurantApp/RestaurantApp.Application/obj/Debug/net10.0/Restaura.66220947.Up2Date
+/Users/sharansunkad/RiderProjects/RestaurantApp/RestaurantApp.Application/obj/Debug/net10.0/RestaurantApp.Application.dll
+/Users/sharansunkad/RiderProjects/RestaurantApp/RestaurantApp.Application/obj/Debug/net10.0/refint/RestaurantApp.Application.dll
+/Users/sharansunkad/RiderProjects/RestaurantApp/RestaurantApp.Application/obj/Debug/net10.0/RestaurantApp.Application.pdb
+/Users/sharansunkad/RiderProjects/RestaurantApp/RestaurantApp.Application/obj/Debug/net10.0/ref/RestaurantApp.Application.dll

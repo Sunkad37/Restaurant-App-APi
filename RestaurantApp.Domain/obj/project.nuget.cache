@@ -1,8 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "VDOK3B5iqpo=",
+  "dgSpecHash": "8mKK3P1PlvE=",
   "success": true,
   "projectFilePath": "/Users/sharansunkad/RiderProjects/RestaurantApp/RestaurantApp.Domain/RestaurantApp.Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/sharansunkad/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
+    "/Users/sharansunkad/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.1/automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
+    "/Users/sharansunkad/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "/Users/sharansunkad/.nuget/packages/microsoft.extensions.options/6.0.0/microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "/Users/sharansunkad/.nuget/packages/microsoft.extensions.primitives/6.0.0/microsoft.extensions.primitives.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
