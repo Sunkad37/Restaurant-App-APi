@@ -51,3 +51,28 @@ Accept: application/json
 GET http://localhost:5222/api/restaurants/1/dishes/1
 Accept: application/json
 
+# Asp .Net Core Idenity
+###  register user
+POST http://localhost:5222/register
+Content-Type: application/json
+Accept: application/json
+
+{
+  "email": "sharanucs37@gmail.com",
+  "password": "Sunkad123!"
+}
+
+###  Login
+POST http://localhost:5222/api/identity/login
+Content-Type: application/json
+Accept: application/json
+
+{
+  "email": "sharanucs37@gmail.com",
+  "password": "Sunkad123!"
+}
+
+
+
+
+

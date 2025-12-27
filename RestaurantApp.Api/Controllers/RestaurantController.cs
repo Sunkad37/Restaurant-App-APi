@@ -1,4 +1,5 @@
 using MediatR;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using RestaurantApp.Application.Commands.CreateRestaurant;
 using RestaurantApp.Application.Commands.DeleteRestaurant;
@@ -8,6 +9,7 @@ using RestaurantApp.Application.Queries.GetRestaurantById;
 namespace RestaurantApp.Api.Controllers;
 
 [ApiController]
+[Authorize]
 [Route("api/[controller]")]
 public class RestaurantsController(IMediator mediator) : ControllerBase
 {
