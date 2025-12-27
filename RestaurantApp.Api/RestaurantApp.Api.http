@@ -1,3 +1,4 @@
+# Restaurants End Point's
 ### Get all restaurants
 GET http://localhost:5222/api/restaurants
 Accept: application/json
@@ -26,8 +27,10 @@ Accept: application/json
   "street": "Main Road",
   "postalCode": "582101"
 }
-
 ###
+
+# Dishes End Point's
+### Create Dishes
 POST http://localhost:5222/api/restaurants/1/dishes
 Content-Type: application/json
 Accept: application/json

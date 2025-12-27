@@ -3,7 +3,6 @@ using Microsoft.AspNetCore.Mvc;
 using RestaurantApp.Application.Commands.CreateDish;
 using RestaurantApp.Application.Queries.GetAllDishes;
 using RestaurantApp.Application.Queries.GetDishById;
-using RestaurantApp.Domain.Entities;
 
 namespace RestaurantApp.Api.Controllers;
 
