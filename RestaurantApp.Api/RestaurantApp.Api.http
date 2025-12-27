@@ -26,3 +26,25 @@ Accept: application/json
   "street": "Main Road",
   "postalCode": "582101"
 }
+
+###
+POST http://localhost:5222/api/restaurants/1/dishes
+Content-Type: application/json
+Accept: application/json
+
+{
+"name": "Paneer Butter Masala",
+"description": "Rich and creamy North Indian curry",
+"price": 250.00,
+"kiloCalories": 600
+}
+
+### Get all the dishes from restaurants
+GET http://localhost:5222/api/restaurants/1
+Content-Type: application/json
+Accept: application/json
+
+### Get Dish By Id
+GET http://localhost:5222/api/restaurants/1/dishes/1
+Accept: application/json
+

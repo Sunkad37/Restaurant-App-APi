@@ -1,3 +1,117 @@
+GET http://localhost:5222/api/restaurants/1/dishes/1
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2025.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+
+<> 2025-12-27T200256.200.json
+
+###
+
+GET http://localhost:5222/api/restaurants/1/dishes/1
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2025.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+
+<> 2025-12-27T200146.404.txt
+
+###
+
+GET http://localhost:5222/api/restaurants/1/dishes/1
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2025.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+
+###
+
+GET http://localhost:5222/api/restaurants/1/dishes/1
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2025.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+
+<> 2025-12-27T195556.200.json
+
+###
+
+GET http://localhost:5222/api/restaurants/1/dishes/1
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2025.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+
+<> 2025-12-27T195356.404.txt
+
+###
+
+GET http://localhost:5222/api/restaurants/1/dishes/1
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2025.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+
+<> 2025-12-27T195231.404.txt
+
+###
+
+GET http://localhost:5222/api/restaurants/1/dishes/1
+Content-Type: application/json
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2025.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+
+<> 2025-12-27T195052.404.txt
+
+###
+
+GET http://localhost:5222/api/restaurants/1/1
+Content-Type: application/json
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2025.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+
+###
+
+GET http://localhost:5222/api/restaurants/1
+Content-Type: application/json
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2025.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+
+<> 2025-12-27T194916.200.json
+
+###
+
+POST http://localhost:5222/api/restaurants/1/dishes
+Content-Type: application/json
+Accept: application/json
+Content-Length: 125
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2025.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+
+{
+"name": "Paneer Butter Masala",
+"description": "Rich and creamy North Indian curry",
+"price": 250.00,
+"kiloCalories": 600
+}
+
+###
+
+POST http://localhost:5222/api/restaurants/1/dishes
+Content-Type: application/json
+Accept: application/json
+Content-Length: 125
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2025.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+
+{
+"name": "Paneer Butter Masala",
+"description": "Rich and creamy North Indian curry",
+"price": 250.00,
+"kiloCalories": 600
+}
+
+<> 2025-12-27T191916.500.txt
+
+###
+
 GET http://localhost:5222/api/restaurants/4
 Accept: application/json
 User-Agent: IntelliJ HTTP Client/JetBrains Rider 2025.3.1

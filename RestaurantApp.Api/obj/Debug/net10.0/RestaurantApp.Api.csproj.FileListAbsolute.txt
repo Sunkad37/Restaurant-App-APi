@@ -1,5 +1,6 @@
 /Users/sharansunkad/RiderProjects/RestaurantApp/RestaurantApp.Api/bin/Debug/net10.0/appsettings.Development.json
 /Users/sharansunkad/RiderProjects/RestaurantApp/RestaurantApp.Api/bin/Debug/net10.0/appsettings.json
+/Users/sharansunkad/RiderProjects/RestaurantApp/RestaurantApp.Api/bin/Debug/net10.0/http-client.env.json
 /Users/sharansunkad/RiderProjects/RestaurantApp/RestaurantApp.Api/bin/Debug/net10.0/RestaurantApp.Api.staticwebassets.endpoints.json
 /Users/sharansunkad/RiderProjects/RestaurantApp/RestaurantApp.Api/bin/Debug/net10.0/RestaurantApp.Api
 /Users/sharansunkad/RiderProjects/RestaurantApp/RestaurantApp.Api/bin/Debug/net10.0/RestaurantApp.Api.deps.json
@@ -182,4 +183,3 @@
 /Users/sharansunkad/RiderProjects/RestaurantApp/RestaurantApp.Api/obj/Debug/net10.0/RestaurantApp.Api.pdb
 /Users/sharansunkad/RiderProjects/RestaurantApp/RestaurantApp.Api/obj/Debug/net10.0/RestaurantApp.Api.genruntimeconfig.cache
 /Users/sharansunkad/RiderProjects/RestaurantApp/RestaurantApp.Api/obj/Debug/net10.0/ref/RestaurantApp.Api.dll
-/Users/sharansunkad/RiderProjects/RestaurantApp/RestaurantApp.Api/bin/Debug/net10.0/http-client.env.json
