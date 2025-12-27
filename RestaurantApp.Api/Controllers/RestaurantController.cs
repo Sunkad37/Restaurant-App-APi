@@ -1,35 +1,45 @@
+using MediatR;
 using Microsoft.AspNetCore.Mvc;
-using RestaurantApp.Application.Restaurants;
-using RestaurantApp.Application.Restaurants.Dto;
-using RestaurantApp.Domain.Entities;
+using RestaurantApp.Application.Commands.CreateRestaurant;
+using RestaurantApp.Application.Commands.DeleteRestaurant;
+using RestaurantApp.Application.Queries.GetAllRestaurants;
+using RestaurantApp.Application.Queries.GetRestaurantById;
 
 namespace RestaurantApp.Api.Controllers;
 
 [ApiController]
-[Route("api/restaurants")]
-public class RestaurantController(IRestaurantsService restaurantsService) : ControllerBase
+[Route("api/[controller]")]
+public class RestaurantsController(IMediator mediator) : ControllerBase
 {
+    // GET api/restaurants
     [HttpGet]
-    [Route("GetAllRestaurants")]
     public async Task<IActionResult> GetAll()
     {
-        var restaurants = await restaurantsService.GetAllRestaurants();
+        var restaurants = await mediator.Send(new GetAllRestaurantsQuery());
         return Ok(restaurants);
     }
 
-    [HttpGet()]
-    [Route("GetById/{id}")]
-    public async Task<IActionResult> GetById([FromRoute] int id)
+    // GET api/restaurants/{id}
+    [HttpGet("{id}")]
+    public async Task<IActionResult> GetById(int id)
     {
-        var restaurant = await restaurantsService.GetRestaurantById(id);
+        var restaurant = await mediator.Send(new GetRestaurantByIdQuery(id));
         return Ok(restaurant);
     }
 
+    // POST api/restaurants
     [HttpPost]
-    [Route("CreateRestaurant")]
-    public async Task<IActionResult> CreateRestaurant([FromBody]CreateRestaurantDto dto)
+    public async Task<IActionResult> CreateRestaurant([FromBody] CreateRestaurantCommand command)
     {
-        int id = await restaurantsService.CreateRestaurant(dto);
+        int id = await mediator.Send(command);
         return CreatedAtAction(nameof(GetById), new { id }, null);
+    }
+
+    // DELETE api/restaurants/{id}
+    [HttpDelete("{id}")]
+    public async Task<IActionResult> DeleteRestaurant(int id)
+    {
+        await mediator.Send(new DeleteRestaurantCommand(id));
+        return NoContent();
     }
 }

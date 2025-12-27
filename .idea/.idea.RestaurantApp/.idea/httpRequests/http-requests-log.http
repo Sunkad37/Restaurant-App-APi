@@ -1,0 +1,188 @@
+GET http://localhost:5222/api/restaurants/4
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2025.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+
+<> 2025-12-27T130055.404.txt
+
+###
+
+GET http://localhost:5222/api/restaurants
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2025.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+
+<> 2025-12-27T130042.200.json
+
+###
+
+DELETE http://localhost:5222/api/Restaurants/4
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2025.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+content-length: 0
+
+###
+
+GET http://localhost:5222/api/restaurants
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2025.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+
+<> 2025-12-27T125851.200.json
+
+###
+
+GET http://localhost:5222/api/restaurants/100
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2025.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+
+<> 2025-12-27T124309.404.txt
+
+###
+
+GET http://localhost:5222/api/restaurants/100
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2025.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+
+<> 2025-12-27T124148.404.txt
+
+###
+
+GET http://localhost:5222/api/restaurants/100
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2025.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+
+<> 2025-12-27T124103.404.txt
+
+###
+
+GET http://localhost:5222/api/restaurants/100
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2025.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+
+<> 2025-12-27T123418.404.txt
+
+###
+
+GET http://localhost:5222/api/restaurants/100
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2025.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+
+<> 2025-12-27T123346.404.txt
+
+###
+
+GET http://localhost:5222/api/restaurants/1
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2025.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+
+<> 2025-12-27T123336.200.json
+
+###
+
+GET http://localhost:5222/api/restaurants
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2025.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+
+<> 2025-12-27T122011.500.txt
+
+###
+
+GET http://localhost:5222/api/restaurants
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2025.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+
+<> 2025-12-27T121808.500.txt
+
+###
+
+GET http://localhost:5222/api/restaurants
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2025.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+
+<> 2025-12-27T121732.500.txt
+
+###
+
+GET http://localhost:5222/api/restaurants
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2025.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+
+<> 2025-12-27T121630.500.txt
+
+###
+
+GET http://localhost:5222/api/restaurants/1
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2025.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+
+<> 2025-12-27T120738.500.txt
+
+###
+
+GET http://localhost:5222/api/restaurants/1111
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2025.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+
+<> 2025-12-27T120448.404.json
+
+###
+
+GET http://localhost:5222/api/restaurants/1
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2025.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+
+<> 2025-12-26T010816.200.json
+
+###
+
+GET http://localhost:5222/api/restaurants/1
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2025.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+
+<> 2025-12-26T010713.200.json
+
+###
+
+GET http://localhost:5222/api/restaurants/1
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2025.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+
+<> 2025-12-26T010658.200.json
+
+###
+
+GET http://localhost:5222/api/restaurants
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2025.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+
+<> 2025-12-26T010649.200.json
+
+###
+
+GET http://localhost:5222/api/restaurants
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2025.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+
+<> 2025-12-26T010328.500.txt
+
+###
+

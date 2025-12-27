@@ -1,3 +1,4 @@
+using RestaurantApp.Api.Middlewares;
 using RestaurantApp.Application.Extensions;
 using RestaurantApp.Infrastructure.Extensions;
 using RestaurantApp.Infrastructure.Seeders;
@@ -14,6 +15,9 @@ builder.Services.AddControllers();
 // Add Swagger
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+
+//Error Handling Middleware
+builder.Services.AddTransient<ErrorHandlingMiddleware>();
 
 var app = builder.Build();
 
@@ -33,10 +37,9 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 app.UseAuthorization();
-
+app.UseMiddleware<ErrorHandlingMiddleware>();
 // Map controllers
 app.MapControllers();
-
 
 app.UseSwaggerUI(c =>
 {

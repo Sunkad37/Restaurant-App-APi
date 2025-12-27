@@ -1,4 +1,28 @@
-@RestaurantApp.Api_HostAddress = http://localhost:5222
-
-GET {{RestaurantApp.Api_HostAddress}}/api/restaurants
+### Get all restaurants
+GET http://localhost:5222/api/restaurants
 Accept: application/json
+
+### Get restaurant by id
+GET http://localhost:5222/api/restaurants/4
+Accept: application/json
+
+### Delete Restaurant By Id
+DELETE http://localhost:5222/api/Restaurants/4
+Accept: application/json
+
+### Create a new restaurant
+POST http://localhost:5222/api/restaurants 
+Content-Type: application/json
+Accept: application/json
+
+{
+  "name": "Spice Garden",
+  "description": "Authentic Indian cuisine with a modern twist",
+  "category": "Indian",
+  "hasDelivery": true,
+  "contactEmail": "info@spicegarden.com",
+  "contactNumber": "9876543210",
+  "city": "Gadag",
+  "street": "Main Road",
+  "postalCode": "582101"
+}

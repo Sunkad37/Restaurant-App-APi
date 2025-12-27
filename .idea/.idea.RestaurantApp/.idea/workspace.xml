@@ -9,113 +9,64 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="96ade6cb-ebdc-4a1f-b61d-848067e85809" name="Changes" comment="Crating Project - Restuarant App">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.RestaurantApp/.idea/httpRequests/http-requests-log.http" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.RestaurantApp/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.RestaurantApp/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.RestaurantApp/.idea/shelf/Git_Files.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.RestaurantApp/.idea/shelf/Git_Files/shelved.patch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.RestaurantApp/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.RestaurantApp/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vs/RestaurantApp/xs/UserPrefs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vs/RestaurantApp/xs/project-cache/RestaurantApp.Api-Debug.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vs/RestaurantApp/xs/project-cache/RestaurantApp.Application-Debug.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vs/RestaurantApp/xs/project-cache/RestaurantApp.Domain-Debug.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vs/RestaurantApp/xs/project-cache/RestaurantApp.Infrastructure-Debug.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestaurantApp.Api/Controllers/RestaurantController.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestaurantApp.Api/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestaurantApp.Api/Properties/launchSettings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestaurantApp.Api/RestaurantApp.Api.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestaurantApp.Api/RestaurantApp.Api.http" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestaurantApp.Api/appsettings.Development.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestaurantApp.Api/appsettings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestaurantApp.Api/obj/Debug/net10.0/.NETCoreApp,Version=v10.0.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestaurantApp.Api/obj/Debug/net10.0/RestaurantApp.Api.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestaurantApp.Api/obj/Debug/net10.0/RestaurantApp.Api.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestaurantApp.Api/obj/Debug/net10.0/RestaurantApp.Api.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestaurantApp.Api/obj/Debug/net10.0/RestaurantApp.Api.GlobalUsings.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestaurantApp.Api/obj/Debug/net10.0/RestaurantApp.Api.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestaurantApp.Api/obj/Debug/net10.0/RestaurantApp.Api.csproj.AssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestaurantApp.Api/obj/Debug/net10.0/RestaurantApp.Api.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestaurantApp.Api/obj/Debug/net10.0/apphost" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestaurantApp.Api/obj/RestaurantApp.Api.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestaurantApp.Api/obj/RestaurantApp.Api.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestaurantApp.Api/obj/RestaurantApp.Api.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestaurantApp.Api/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestaurantApp.Api/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestaurantApp.Api/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestaurantApp.Api/obj/rider.project.model.nuget.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestaurantApp.Api/obj/rider.project.restore.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestaurantApp.Application/Dishes/Dto/DishDto.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestaurantApp.Application/Extensions/ApplicationServiceCollections.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestaurantApp.Application/RestaurantApp.Application.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestaurantApp.Application/Restaurants/Dto/RestaurantDto.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestaurantApp.Application/Restaurants/IRestaurantsService.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestaurantApp.Application/Restaurants/RestaurantsService.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestaurantApp.Application/obj/Debug/net10.0/.NETCoreApp,Version=v10.0.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestaurantApp.Application/obj/Debug/net10.0/RestaurantApp.Application.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestaurantApp.Application/obj/Debug/net10.0/RestaurantApp.Application.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestaurantApp.Application/obj/Debug/net10.0/RestaurantApp.Application.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestaurantApp.Application/obj/Debug/net10.0/RestaurantApp.Application.GlobalUsings.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestaurantApp.Application/obj/Debug/net10.0/RestaurantApp.Application.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestaurantApp.Application/obj/Debug/net10.0/RestaurantApp.Application.csproj.AssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestaurantApp.Application/obj/Debug/net10.0/RestaurantApp.Application.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestaurantApp.Application/obj/RestaurantApp.Application.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestaurantApp.Application/obj/RestaurantApp.Application.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestaurantApp.Application/obj/RestaurantApp.Application.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestaurantApp.Application/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestaurantApp.Application/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestaurantApp.Application/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestaurantApp.Application/obj/rider.project.model.nuget.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestaurantApp.Application/obj/rider.project.restore.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestaurantApp.Domain/Entities/Address.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestaurantApp.Domain/Entities/Dish.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestaurantApp.Domain/Entities/Restaurant.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestaurantApp.Domain/Repositories/IRestaurantRepository.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestaurantApp.Domain/RestaurantApp.Domain.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestaurantApp.Domain/obj/Debug/net10.0/.NETCoreApp,Version=v10.0.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestaurantApp.Domain/obj/Debug/net10.0/RestaurantApp.Domain.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestaurantApp.Domain/obj/Debug/net10.0/RestaurantApp.Domain.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestaurantApp.Domain/obj/Debug/net10.0/RestaurantApp.Domain.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestaurantApp.Domain/obj/Debug/net10.0/RestaurantApp.Domain.GlobalUsings.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestaurantApp.Domain/obj/Debug/net10.0/RestaurantApp.Domain.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestaurantApp.Domain/obj/Debug/net10.0/RestaurantApp.Domain.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestaurantApp.Domain/obj/RestaurantApp.Domain.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestaurantApp.Domain/obj/RestaurantApp.Domain.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestaurantApp.Domain/obj/RestaurantApp.Domain.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestaurantApp.Domain/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestaurantApp.Domain/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestaurantApp.Domain/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestaurantApp.Domain/obj/rider.project.model.nuget.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestaurantApp.Domain/obj/rider.project.restore.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestaurantApp.Infrastructure/Extensions/ServiceCollectionExtensions.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestaurantApp.Infrastructure/Migrations/20251224132554_Initial.Designer.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestaurantApp.Infrastructure/Migrations/20251224132554_Initial.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestaurantApp.Infrastructure/Migrations/20251224134612_AddedKiloCaloriesToDish.Designer.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestaurantApp.Infrastructure/Migrations/20251224134612_AddedKiloCaloriesToDish.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestaurantApp.Infrastructure/Migrations/RestaurantDbContextModelSnapshot.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestaurantApp.Infrastructure/Persistence/RestaurantDbContext.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestaurantApp.Infrastructure/Repositories/RestaurantRepository.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestaurantApp.Infrastructure/RestaurantApp.Infrastructure.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestaurantApp.Infrastructure/Seeders/IRestaurantSeeder.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestaurantApp.Infrastructure/Seeders/RestaurantSeeder.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestaurantApp.Infrastructure/obj/Debug/net10.0/.NETCoreApp,Version=v10.0.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestaurantApp.Infrastructure/obj/Debug/net10.0/RestaurantApp.Infrastructure.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestaurantApp.Infrastructure/obj/Debug/net10.0/RestaurantApp.Infrastructure.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestaurantApp.Infrastructure/obj/Debug/net10.0/RestaurantApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestaurantApp.Infrastructure/obj/Debug/net10.0/RestaurantApp.Infrastructure.GlobalUsings.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestaurantApp.Infrastructure/obj/Debug/net10.0/RestaurantApp.Infrastructure.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestaurantApp.Infrastructure/obj/Debug/net10.0/RestaurantApp.Infrastructure.csproj.AssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestaurantApp.Infrastructure/obj/Debug/net10.0/RestaurantApp.Infrastructure.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestaurantApp.Infrastructure/obj/RestaurantApp.Infrastructure.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestaurantApp.Infrastructure/obj/RestaurantApp.Infrastructure.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestaurantApp.Infrastructure/obj/RestaurantApp.Infrastructure.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestaurantApp.Infrastructure/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestaurantApp.Infrastructure/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestaurantApp.Infrastructure/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestaurantApp.Infrastructure/obj/rider.project.model.nuget.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestaurantApp.Infrastructure/obj/rider.project.restore.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestaurantApp.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RestaurantApp.sln.DotSettings.user" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestaurantApp.Api/Middlewares/ErrorHandlingMiddleware.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestaurantApp.Api/http-client.env.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestaurantApp.Application/Commands/CreateRestaurant/CreateRestaurantCommand.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestaurantApp.Application/Commands/CreateRestaurant/CreateRestaurantCommandHandler.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestaurantApp.Application/Commands/CreateRestaurant/CreateRestaurantCommandValidator.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestaurantApp.Application/Commands/DeleteRestaurant/DeleteRestaurantCommand.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestaurantApp.Application/Commands/DeleteRestaurant/DeleteRestaurantCommandHandler.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestaurantApp.Application/Queries/GetAllRestaurants/GetAllRestaurantsQuery.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestaurantApp.Application/Queries/GetAllRestaurants/GetAllRestaurantsQueryCommand.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestaurantApp.Application/Queries/GetRestaurantById/GetRestaurantByIdQuery.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestaurantApp.Application/Queries/GetRestaurantById/GetRestaurantByIdQueryCommand.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestaurantApp.Domain/Exceptions/NotFoundException.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.RestaurantApp/.idea/httpRequests/http-requests-log.http" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.RestaurantApp/.idea/httpRequests/http-requests-log.http" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.RestaurantApp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.RestaurantApp/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestaurantApp.Api/Controllers/RestaurantController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/RestaurantApp.Api/Controllers/RestaurantController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestaurantApp.Api/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/RestaurantApp.Api/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestaurantApp.Api/RestaurantApp.Api.http" beforeDir="false" afterPath="$PROJECT_DIR$/RestaurantApp.Api/RestaurantApp.Api.http" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestaurantApp.Api/obj/Debug/net10.0/RestaurantApp.Api.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/RestaurantApp.Api/obj/Debug/net10.0/RestaurantApp.Api.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestaurantApp.Api/obj/Debug/net10.0/RestaurantApp.Api.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/RestaurantApp.Api/obj/Debug/net10.0/RestaurantApp.Api.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestaurantApp.Api/obj/Debug/net10.0/RestaurantApp.Api.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/RestaurantApp.Api/obj/Debug/net10.0/RestaurantApp.Api.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestaurantApp.Api/obj/Debug/net10.0/RestaurantApp.Api.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/RestaurantApp.Api/obj/Debug/net10.0/RestaurantApp.Api.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestaurantApp.Api/obj/Debug/net10.0/RestaurantApp.Api.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/RestaurantApp.Api/obj/Debug/net10.0/RestaurantApp.Api.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestaurantApp.Api/obj/RestaurantApp.Api.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/RestaurantApp.Api/obj/RestaurantApp.Api.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestaurantApp.Api/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/RestaurantApp.Api/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestaurantApp.Api/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/RestaurantApp.Api/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestaurantApp.Api/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/RestaurantApp.Api/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestaurantApp.Api/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/RestaurantApp.Api/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestaurantApp.Application/Extensions/ApplicationServiceCollections.cs" beforeDir="false" afterPath="$PROJECT_DIR$/RestaurantApp.Application/Extensions/ApplicationServiceCollections.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestaurantApp.Application/RestaurantApp.Application.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/RestaurantApp.Application/RestaurantApp.Application.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestaurantApp.Application/Restaurants/Dto/CreateRestaurantDto.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestaurantApp.Application/Restaurants/Dto/RestaurantProfile.cs" beforeDir="false" afterPath="$PROJECT_DIR$/RestaurantApp.Application/Restaurants/Dto/RestaurantProfile.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestaurantApp.Application/Restaurants/IRestaurantsService.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestaurantApp.Application/Restaurants/RestaurantsService.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestaurantApp.Application/obj/Debug/net10.0/RestaurantApp.Application.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/RestaurantApp.Application/obj/Debug/net10.0/RestaurantApp.Application.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestaurantApp.Application/obj/Debug/net10.0/RestaurantApp.Application.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/RestaurantApp.Application/obj/Debug/net10.0/RestaurantApp.Application.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestaurantApp.Application/obj/Debug/net10.0/RestaurantApp.Application.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/RestaurantApp.Application/obj/Debug/net10.0/RestaurantApp.Application.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestaurantApp.Application/obj/Debug/net10.0/RestaurantApp.Application.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/RestaurantApp.Application/obj/Debug/net10.0/RestaurantApp.Application.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestaurantApp.Application/obj/RestaurantApp.Application.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/RestaurantApp.Application/obj/RestaurantApp.Application.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestaurantApp.Application/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/RestaurantApp.Application/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestaurantApp.Application/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/RestaurantApp.Application/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestaurantApp.Application/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/RestaurantApp.Application/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestaurantApp.Application/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/RestaurantApp.Application/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestaurantApp.Application/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/RestaurantApp.Application/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestaurantApp.Domain/Repositories/IRestaurantRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/RestaurantApp.Domain/Repositories/IRestaurantRepository.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestaurantApp.Domain/obj/Debug/net10.0/RestaurantApp.Domain.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/RestaurantApp.Domain/obj/Debug/net10.0/RestaurantApp.Domain.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestaurantApp.Domain/obj/Debug/net10.0/RestaurantApp.Domain.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/RestaurantApp.Domain/obj/Debug/net10.0/RestaurantApp.Domain.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestaurantApp.Domain/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/RestaurantApp.Domain/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestaurantApp.Domain/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/RestaurantApp.Domain/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestaurantApp.Infrastructure/Repositories/RestaurantRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/RestaurantApp.Infrastructure/Repositories/RestaurantRepository.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestaurantApp.Infrastructure/obj/Debug/net10.0/RestaurantApp.Infrastructure.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/RestaurantApp.Infrastructure/obj/Debug/net10.0/RestaurantApp.Infrastructure.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestaurantApp.Infrastructure/obj/Debug/net10.0/RestaurantApp.Infrastructure.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/RestaurantApp.Infrastructure/obj/Debug/net10.0/RestaurantApp.Infrastructure.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestaurantApp.Infrastructure/obj/Debug/net10.0/RestaurantApp.Infrastructure.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/RestaurantApp.Infrastructure/obj/Debug/net10.0/RestaurantApp.Infrastructure.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestaurantApp.Infrastructure/obj/Debug/net10.0/RestaurantApp.Infrastructure.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/RestaurantApp.Infrastructure/obj/Debug/net10.0/RestaurantApp.Infrastructure.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestaurantApp.Infrastructure/obj/RestaurantApp.Infrastructure.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/RestaurantApp.Infrastructure/obj/RestaurantApp.Infrastructure.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestaurantApp.Infrastructure/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/RestaurantApp.Infrastructure/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestaurantApp.Infrastructure/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/RestaurantApp.Infrastructure/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestaurantApp.Infrastructure/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/RestaurantApp.Infrastructure/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestaurantApp.Infrastructure/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/RestaurantApp.Infrastructure/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,6 +75,13 @@
   </component>
   <component name="DpaMonitoringSettings">
     <option name="firstShow" value="false" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTTP Public Environment File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <branch-grouping />
@@ -134,14 +92,24 @@
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/9686563c8cfaba18d2b4168911121dc6b15c2cf11cd52d883a17175f7c6c96/AffectedCountModificationCommandBatch.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/e769c44533aabde1f69a82956c6436e6daa615f4ae54fbdab4ac1fbfa1a39d1/CallSiteValidator.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/RestaurantApp.Api/Controllers/RestaurantController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RestaurantApp.Api/Middlewares/ErrorHandlingMiddleware.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RestaurantApp.Application/Commands/CreateRestaurant/CreateRestaurantCommand.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RestaurantApp.Application/Commands/CreateRestaurant/CreateRestaurantCommandHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RestaurantApp.Application/Commands/CreateRestaurant/CreateRestaurantCommandValidator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RestaurantApp.Application/Commands/DeleteRestaurant/DeleteRestaurantCommand.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RestaurantApp.Application/Commands/DeleteRestaurant/DeleteRestaurantCommandHandler.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/RestaurantApp.Application/Dishes/Dto/DishDto.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RestaurantApp.Application/Dishes/Dto/DishProfile.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/RestaurantApp.Application/Extensions/ApplicationServiceCollections.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RestaurantApp.Application/Queries/GetAllRestaurants/GetAllRestaurantsQuery.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RestaurantApp.Application/Queries/GetAllRestaurants/GetAllRestaurantsQueryCommand.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RestaurantApp.Application/Queries/GetRestaurantById/GetRestaurantByIdQuery.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/RestaurantApp.Application/Restaurants/Dto/RestaurantDto.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/RestaurantApp.Application/Restaurants/IRestaurantsService.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/RestaurantApp.Application/Restaurants/RestaurantsService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RestaurantApp.Application/Restaurants/Dto/RestaurantProfile.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/RestaurantApp.Domain/Entities/Address.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/RestaurantApp.Domain/Entities/Dish.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/RestaurantApp.Domain/Entities/Restaurant.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RestaurantApp.Domain/Exceptions/NotFoundException.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/RestaurantApp.Infrastructure/Extensions/ServiceCollectionExtensions.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/RestaurantApp.Infrastructure/Persistence/RestaurantDbContext.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/RestaurantApp.Infrastructure/Repositories/RestaurantRepository.cs" root0="FORCE_HIGHLIGHTING" />
@@ -149,15 +117,25 @@
     <setting file="file://$PROJECT_DIR$/RestaurantApp.Infrastructure/Seeders/RestaurantSeeder.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file:///usr/local/share/dotnet/sdk/10.0.101/Sdks/Microsoft.NET.Sdk/analyzers/build/config/analysislevel_10_default.globalconfig" root0="FORCE_HIGHLIGHTING" />
   </component>
+  <component name="HttpClientOnboardingState">{
+  &quot;isOnboardingCommentShown&quot;: true
+}</component>
   <component name="KubernetesApiPersistence">{}</component>
   <component name="KubernetesApiProvider">{
   &quot;isMigrated&quot;: true
 }</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
   <component name="ProjectId" id="37HuOmKfRugmTeu4cLrZWAnv53I" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -167,18 +145,22 @@
     ".NET Launch Settings Profile.RestaurantApp.Api: http.executor": "Run",
     "HTTP Request.All in RestaurantApp.Api.executor": "Run",
     "HTTP Request.RestaurantApp.Api | #1.executor": "Run",
+    "HTTP Request.RestaurantApp.Api | Delete Restaurant By Id.executor": "Run",
+    "HTTP Request.RestaurantApp.Api | Get all restaurants.executor": "Run",
+    "HTTP Request.RestaurantApp.Api | Get restaurant by id.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "vcs.Git",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -195,6 +177,9 @@
             <map>
               <entry key="All in RestaurantApp.Api" value="STOPPED" />
               <entry key="RestaurantApp.Api | #1" value="STOPPED" />
+              <entry key="RestaurantApp.Api | Delete Restaurant By Id" value="STOPPED" />
+              <entry key="RestaurantApp.Api | Get all restaurants" value="STOPPED" />
+              <entry key="RestaurantApp.Api | Get restaurant by id" value="STOPPED" />
             </map>
           </value>
         </entry>
@@ -203,6 +188,15 @@
   </component>
   <component name="RunManager" selected=".NET Launch Settings Profile.RestaurantApp.Api: http">
     <configuration name="All in RestaurantApp.Api" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$PROJECT_DIR$/RestaurantApp.Api/RestaurantApp.Api.http">
+      <method v="2" />
+    </configuration>
+    <configuration name="RestaurantApp.Api | Delete Restaurant By Id" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/RestaurantApp.Api/RestaurantApp.Api.http" executionIdentifier="Delete Restaurant By Id" index="3" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="RestaurantApp.Api | Get all restaurants" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/RestaurantApp.Api/RestaurantApp.Api.http" executionIdentifier="Get all restaurants" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="RestaurantApp.Api | Get restaurant by id" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/RestaurantApp.Api/RestaurantApp.Api.http" executionIdentifier="Get restaurant by id" index="2" runType="Run single request">
       <method v="2" />
     </configuration>
     <configuration name="RestaurantApp.Api | #1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/RestaurantApp.Api/RestaurantApp.Api.http" executionIdentifier="#1" runType="Run single request">
@@ -242,8 +236,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="HTTP Request.All in RestaurantApp.Api" />
+        <item itemvalue="HTTP Request.RestaurantApp.Api | Get restaurant by id" />
+        <item itemvalue="HTTP Request.RestaurantApp.Api | Get all restaurants" />
+        <item itemvalue="HTTP Request.RestaurantApp.Api | Delete Restaurant By Id" />
         <item itemvalue="HTTP Request.RestaurantApp.Api | #1" />
+        <item itemvalue="HTTP Request.All in RestaurantApp.Api" />
       </list>
     </recent_temporary>
   </component>
@@ -256,6 +253,8 @@
       <updated>1766572287677</updated>
       <workItem from="1766572288696" duration="24886000" />
       <workItem from="1766660426856" duration="547000" />
+      <workItem from="1766661005828" duration="16185000" />
+      <workItem from="1766816631531" duration="4045000" />
     </task>
     <servers />
   </component>
@@ -296,19 +295,6 @@
           <properties exception="System.Threading.ThreadAbortException" breakIfHandledByOtherCode="false" displayValue="System.Threading.ThreadAbortException" />
           <option name="timeStamp" value="3" />
         </breakpoint>
-        <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/RestaurantApp.Infrastructure/Seeders/RestaurantSeeder.cs</url>
-          <line>8</line>
-          <properties documentPath="$PROJECT_DIR$/RestaurantApp.Infrastructure/Seeders/RestaurantSeeder.cs" containingFunctionPresentation="Method 'Seed'">
-            <startOffsets>
-              <option value="251" />
-            </startOffsets>
-            <endOffsets>
-              <option value="252" />
-            </endOffsets>
-          </properties>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
